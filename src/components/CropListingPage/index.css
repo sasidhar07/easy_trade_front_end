@@ -1,0 +1,11 @@
+.pridictionPageCont{
+    width: 100vw;
+    background-color: rgb(244, 252, 252);
+    padding-top: 10px;
+}
+.iframePridictionPage{
+    width: 100%;
+    border: none;
+    min-height: 90vh;
+    height: 100%;
+}
